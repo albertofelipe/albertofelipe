@@ -1,5 +1,4 @@
 ### Hi there! I'm Alberto Felipe 🖐️
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-sena-4351a4227/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Gmail")](mailto:felipe0032sena@gmail.com)
 
@@ -17,4 +16,10 @@
     <img align = "center" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
     <img align = "center" alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
+
+## About me:
+
+- 😬  I'm 21 years old  
+- 👨‍💻 I'm currently studying for a bachelor's degree in Computer Science
+- 🔥 I'm always looking to learn something about programming and technology.
 
