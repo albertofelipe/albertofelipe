@@ -19,7 +19,7 @@
 
 ## About me:
 
-- 😬  I'm 21 years old  
+- 😬  I'm 22 years old  
 - 👨‍💻 I'm currently studying for a bachelor's degree in Computer Science
 - 🔥 I'm always looking to learn something about programming and technology.
 
