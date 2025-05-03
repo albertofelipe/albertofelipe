@@ -1,24 +1,23 @@
-### Hi there! I'm Alberto Felipe 🖐️
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-sena-4351a4227/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Gmail")](mailto:felipe0032sena@gmail.com)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertofelipe&show_icons=true&bg_color=00000000)
-
-## Technologies I use on a daily basis
-
-<div style="display:inline_block"><br/>
+<h1> Whats up, i'm Alberto Sena! </h1>
+<div> 
+     <a href="https://www.linkedin.com/in/albertosena1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
+<h2 align="left">
+#Never stop learning.
+</h2>
+<p>
+   Software engineer passionate about building scalable and high-performance web applications.
    
-<img align = "center" alt="PHP" src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img align = "center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img align = "center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align = "center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img align = "center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+   I’m most excited by the challenge of making systems faster, more efficient, and ready to grow.
+</p>
+  
+<br>
 
-</div>
+<p>Main skills: </p>
+<div align="left">
 
-## About me:
+![Skills](https://skillicons.dev/icons?i=php,laravel,java,spring,mysql,postgres,docker,typescript,react)
 
-- 😬  I'm 22 years old  
-- 👨‍💻 I'm currently studying for a bachelor's degree in Computer Science
-- 🔥 I'm always looking to learn something about programming and technology.
+  </div>
 
+<a href="https://github.com/albertofelipe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=albertofelipe&show_icons=true&include_all_commits=true&theme=nord&hide_border=true&hide=contribs" alt="Alberto Sena github stats"/></a> <a href="https://github.com/albertofelipe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertofelipe&layout=compact&theme=nord&hide_border=true" /></a>
